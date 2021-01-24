@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Kleinsmed
+  link: /kleinsmed.html
+- name: Service
+  link: /service.html
+- name: Kontakt
+  link: /kontakt.html
+- name: Facebook side
+  link: /Facebook-page.html
